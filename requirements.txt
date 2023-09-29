@@ -1,5 +1,5 @@
 numpy
-cupy
 scipy
 sympy
+tqdm
 matplotlib
