@@ -4,3 +4,10 @@ Part of the code in this repo is intended to be accelerated on GPUs. We used [Cu
 
 Once all CuPy dependencies have been installed, modify the `cuda_version` in the Makefile and run `make venv` to build the virtual environment. 
 
+## Notebooks
+
+We provided the basic code used to produce our results in notebook form:
+
+- `notebooks/simulation.ipynb`: numerical simulations of the integro-pde model described in the paper.
+- `notebooks/linear_stability_analysis.ipynb`: linear stability analysis of the homoegeneous steady states associated with the integro-pde model.
+
