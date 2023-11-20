@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Supporting code for the paper "Phenotypic plasticity – a missing element in the theory of vegetation pattern formation"</h1>
+  <h1>Supporting code for the paper "Phenotypic plasticity: A missing element in the theory of vegetation pattern formation"</h1>
   <img src="https://github.com/03bennej/multiscale-fairy-circles/blob/main/images/stability.png" width="350"> 
   
   <img src="https://github.com/03bennej/multiscale-fairy-circles/blob/main/images/fc_120.png" width="275"> <img src="https://github.com/03bennej/multiscale-fairy-circles/blob/main/images/fc_129.png" width="275">
